@@ -18,7 +18,9 @@ How to use my terrible dwm configuration
 2. put in: mv dwm/.xinitrc ./
 3. put in: cd dwm/
 4. put in: sudo make install
-5. put in: startx
+(1, 2, 3, 4, or 5). set up slstatus (https://tools.suckless.org/slstatus/)
+6. put in: startx
 
 ------------------------------------
 dwm version: 6.2
+dwm: https://dwm.suckless.org/
