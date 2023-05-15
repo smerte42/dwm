@@ -5,6 +5,9 @@ requirements:
 picom
 st
 dmenu
+xinit
+xsetroot
+X11
 
 ------------------------------------
 # how to use it
